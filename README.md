@@ -1,1 +1,3 @@
-Esta API tem o propósito de servir a todos os projetos criados na Cubos Academy usando apenas uma única instância do Heroku.
+# API em Desenvolvimento...
+Esta API terá o propósito de servir a todos os projetos criados na Cubos Academy(com exceção do ultimo desafio) usando apenas uma única instância do Heroku.
+
