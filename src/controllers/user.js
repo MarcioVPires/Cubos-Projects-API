@@ -1,10 +1,6 @@
 const { query } = require("../database/connection");
 const bcrypt = require("bcrypt");
 
-// function cadastrarUsuario (req,res){
-
-// }
-
 async function userSignup(req, res) {
   const { name, email, password } = req.body;
 
